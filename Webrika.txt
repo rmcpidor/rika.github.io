@@ -1,0 +1,33 @@
+<!Doctype html>
+<html>
+     <head> 
+          <meta charset="utf-8">
+          <title></title>   
+          <link rel="stylesheet"  href="style.css">  
+          <link rel="preconnect" href="https://fonts.gstatic.com">
+          <link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
+  
+     </head>
+     <body>
+          <section id="banner">
+               <div class="banner-text">
+            <h5>Hello, My Name is Rika.<h5>
+               <div class="banner-btn">
+               <a href="#"><span></span>>Find Out</a>
+               <a href="#"><span></span>Read More</a>
+               </div>
+          </div>
+          </section>
+          <div id="sideNav">
+               <nav>
+                    <li><a href="#">Personal Info</a></li>
+                    <li><a href="#">Hobbies</a></li>
+                    <li><a href="#">Friends</a></li>
+                    <li><a href="#">Favorite Person(s)</a></li>
+               </nav>
+
+          
+               
+     
+     </body>
+</html>
